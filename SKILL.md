@@ -1,15 +1,9 @@
 ---
 name: be-human-and-less-defense
-description: >-
-  Generate or edit English or Chinese academic prose, including explanations of experimental data,
-  tables and figures, papers, theses, reviewer responses, and grant proposals. Apply from the first
-  draft for clear, natural, evidence-bound writing, including when paired with Result Explainer (`results`). Reduce AI-style filler, unnecessary defensive
-  disclaimers (especially in Methods and Results), rhetorical dashes, semicolons, and repeated
-  sentence templates while preserving the author's voice, technical content, and citations.
-  For existing-text polishing, present an itemized proposed-change table and apply only approved edits.
+description: "Generate or edit English or Chinese academic prose from data, tables, figures, or existing drafts, including papers, theses, reviewer responses, and grant proposals. Apply from the first draft, including when paired with Result Explainer (results). Reduce AI-style filler, unnecessary defensive disclaimers, rhetorical dashes, semicolons, and repeated sentence templates while preserving the author's voice, evidence, technical content, citations, and necessary limitations. For existing text, propose itemized edits before applying them."
 license: MIT
 metadata:
-  version: "1.3.2"
+  version: "1.3.3"
 ---
 
 # Be Human and Less Defense
