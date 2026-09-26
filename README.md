@@ -26,6 +26,14 @@
 
 没有现成文字时，也可提供数据、图表和研究范围，请它直接起草。请核对生成内容与原始证据是否一致。
 
+## 交给 Codex 或 WorkBuddy 安装
+
+将下面这段话发给你的 Codex 或 WorkBuddy：
+
+> 请从 https://github.com/AISlowDown/be-human-and-less-defense 安装 `be-human-and-less-defense` Skill。先检查 `SKILL.md` 和 `LICENSE`，按当前应用支持的方式安装；完成后确认它能被识别，并告诉我怎样调用。
+
+如果 WorkBuddy 无法直接访问 GitHub，可下载仓库后参照[官方技能文档](https://cloud.tencent.com/document/product/1831/134432)使用本地技能包导入入口。Codex 安装后重新打开即可加载新 Skill。
+
 ## 文件与授权
 
 - [`SKILL.md`](SKILL.md)：完整工作规则。
