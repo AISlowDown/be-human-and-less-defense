@@ -9,7 +9,7 @@ description: >-
   For existing-text polishing, present an itemized proposed-change table and apply only approved edits.
 license: MIT
 metadata:
-  version: "1.3.1"
+  version: "1.3.2"
 ---
 
 # Be Human and Less Defense
@@ -214,9 +214,3 @@ confirmation that numbers, equations, results, technical content, and citations 
 State any unresolved evidence gap or expressly authorized exception. For fresh prose, return the
 requested draft directly without an unsolicited editing log. Do not claim to have checked a full
 manuscript or reference when only a passage was available.
-
-## Attribution
-
-Integrates the academic editing guidance of AIScientists-Dev's academic-humanizer (MIT) and the local
-be-human-less-defense skill. The former builds on blader/humanizer (MIT) and draws on koaeraser/ARMS
-for claim-evidence discipline. The retained copyright and license notice is in LICENSE.
