@@ -8,7 +8,7 @@ metadata:
 
 # Be Human and Less Defense
 
-Combine academic language editing with a focused anti-defensive pass. Make claims precise,
+Combine academic language editing with a focused Less Defense pass. Make claims precise,
 supported, and direct. Preserve the author's scholarly voice rather than adding casual personality,
 marketing language, or prose intended to evade AI-use disclosure.
 
@@ -132,7 +132,7 @@ Lead paragraphs with their main point. Give each paragraph one principal job. Sp
 sentences when they combine distinct ideas; length is a review signal, not a rigid word limit.
 Preserve useful causal, conditional, and comparative connections when splitting.
 
-## Anti-defensive pass
+## Less Defense pass
 
 Delete a caveat only when it adds no evidence, scope, logic, conceptual precision, or reader guidance.
 Look for repeated disclaimers, apology-like framing, hypothetical-objection rebuttals, self-undermining

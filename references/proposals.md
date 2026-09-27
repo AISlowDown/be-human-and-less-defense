@@ -1,7 +1,7 @@
 # Proposal editing
 
 Use this reference only for grant or fellowship drafts. The main skill preservation, style,
-anti-defensive, and punctuation rules still apply. The NSF/NIH structures below are writing
+Less Defense, and punctuation rules still apply. The NSF/NIH structures below are writing
 patterns, not verified current submission rules: follow the supplied solicitation and confirm
 current official requirements before asserting compliance. Do not restructure a draft unless requested.
 Do not add aims, collaborators, evidence, or fallbacks that are absent from the source.
